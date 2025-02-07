@@ -20,5 +20,7 @@ To add voice recognition, an external voice module like the Elechouse Voice Reco
 
 *OUTPUT:*
 
+![Image](https://github.com/user-attachments/assets/4a36ddd6-c5cc-4e97-8c08-2affbe9dd09c)
+
 
 
